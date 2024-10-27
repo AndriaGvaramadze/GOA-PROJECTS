@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(90deg, green, white );
+}
+
+    button{
+        display: block;
+        margin: auto;
+        color: black;
+        background-color: green;
+    }
+

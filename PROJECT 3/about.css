@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(90deg,red, blue);
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 20px;
+    color: cyan;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cyan;
+}
+button{
+    display: block;
+    
+    color: purple;
+    background-color: red;
+    
+}

@@ -1,0 +1,21 @@
+h1{
+    text-shadow: 10px 15px 4px black;
+    font-family: cursive;
+    line-height: 0,6;
+
+}
+body{
+    background: linear-gradient(90deg, green,black);
+}
+button{
+    font-style: oblique;
+    border-style: dashed;
+    color: green;
+    background-color: black;
+    
+}
+h2{
+    font-size: xx-large;
+    color: black;
+    font-family: cursive;
+}
