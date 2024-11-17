@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(90deg, purple,red);
+}
+button{
+    color: red;
+    background-color:purple;
+}
+h1{
+    color: green;
+    background-color: white;
+}
+h2{
+    color: green;
+    background-color: white;
+}

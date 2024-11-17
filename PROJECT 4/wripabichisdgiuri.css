@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+h1{
+    background-color: black;
+    color: yellow;
+    text-decoration: underline;
+}
+h2{
+    background-color: black;
+    color: yellow;
+}
+button{
+    background-color: black;
+    color: yellow;
+}

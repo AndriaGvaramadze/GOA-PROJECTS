@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(90deg, yellow,red);
+}
+button{
+    color: yellow;
+    background-color:red;
+}
+h2{
+    color: orange;
+    background-color: white;
+}

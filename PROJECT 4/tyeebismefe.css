@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(90deg,white,cyan,black);
+}
+button{
+    color: cyan;
+}
+h1{
+    text-shadow: 10px 15px 4px black;
+}

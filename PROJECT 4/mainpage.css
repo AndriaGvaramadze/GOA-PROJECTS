@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(90deg, orange,red);
+}
+button{
+    color: red;
+    background-color: orange;
+}
+h1{
+    text-transform: capitalize;
+}
